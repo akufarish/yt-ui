@@ -1,6 +1,6 @@
 # youtube
 
-A new Flutter project.
+A new Flutter project. Youtube ui make with flutter for fun
 
 ## Getting Started
 

@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:youtube/pages/home.dart';
-import 'package:youtube/pages/subscriptions.dart';
 
 void main() {
   runApp(const MyApp());
